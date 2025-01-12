@@ -5,4 +5,4 @@ WorkSphere Analytics is a Power BI dashboard that provides actionable insights i
 
 ## Dataset used
 -<a href="">Dataset</a>
-![image alt](https://github.com/ArunRoshan123/WorkSphere-Analytics/blob/3b66d6ec9ecad64efb9a2ac14f3d92515c013bd2/Dashboard)
+![image alt]()
