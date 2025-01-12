@@ -16,10 +16,10 @@ Data Career Insights is a Power BI dashboard that provides actionable insights i
 ## Tools Used
 - Power BI for data analysis and visualization.
 
-Data Career Insights aims to equip users with valuable insights for making informed career decisions or understanding the evolving data industry. Contributions and suggestions are welcome!
-
 ## Data Career Insights Dashboard
 ![image alt](https://github.com/ArunRoshan123/WorkSphere-Analytics/blob/2a17c38c38fc0771329ccd0ba5e68801510121b9/WorkSphere%20Analytics%20Dashboard)
 
 ## Download Dashboard 
-<a href="https://github.com/ArunRoshan123/Data-Career-Insights-Dashboard/blob/509b720e28bf35966b903b8d7aa8619d2d21c80e/PowerBI%20Full%20Project.pbix">Dataset</a>
+<a href="https://github.com/ArunRoshan123/Data-Career-Insights-Dashboard/blob/509b720e28bf35966b903b8d7aa8619d2d21c80e/PowerBI%20Full%20Project.pbix">Dashboard</a>
+
+Data Career Insights aims to equip users with valuable insights for making informed career decisions or understanding the evolving data industry. Contributions and suggestions are welcome!
